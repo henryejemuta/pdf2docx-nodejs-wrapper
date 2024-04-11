@@ -1,0 +1,17 @@
+{
+  "name": "pdf2docx-nodejs-wrapper",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for pdf2docx to convert PDF files to DOCX.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node installPdf2Docx.js"
+  },
+  "keywords": [
+    "pdf",
+    "docx",
+    "converter"
+  ],
+  "author": "Henry Ejemuta",
+  "license": "ISC"
+}
